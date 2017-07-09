@@ -1,6 +1,8 @@
-# gh
+# gh app
 
 > Hierarchical gene view in MOLGENIS.
+
+This vue app does the data aggregation of variant data in JavaScript.
 
 ## Build Setup
 
