@@ -1,4 +1,4 @@
-#Genomic hierarchy
+# Genomic hierarchy
 
 >Google friday project to aggregate genomic variants in
 a hierarchy based on their genomic location.
